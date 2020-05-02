@@ -1,0 +1,38 @@
+  .title{
+    font-size: 25px;
+    font-style: italic;
+    font-family: sans-serif;
+    color: black;
+  }
+  #case{
+      height: 37px;
+      width: 200px;
+      border: 2px solid navy;
+      border-radius: 10px;
+  }
+
+  .number{
+      height: 50px;
+      width: 50px;
+      font-size: 25px;
+      color: white;
+      border: 2px solid #black;
+      border-radius: 10px;
+      background-color: blue;
+  }
+  .number:hover {
+    background-color: yellow;
+  }
+
+  .operator{
+      height: 50px;
+      width: 50px;
+      font-size: 25px;
+      color: white;
+      border: 2px solid #5FAE5F;
+      border-radius: 10px;
+      background-color: blue;
+  }
+  .operator:hover{
+      background-color: yellow;
+  }
